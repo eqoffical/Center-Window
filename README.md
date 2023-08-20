@@ -1,2 +1,2 @@
 # Center-Window
-Win+C to center window
+This is AutoHotkeys script, Win+C to center window
